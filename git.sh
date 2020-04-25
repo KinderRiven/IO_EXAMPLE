@@ -1,6 +1,7 @@
-git add *.cc
-git add *.h
+git add *.cc *.h *.sh
+git add include
+git add nanomsg
+git add survey
 git add Makefile
-git add *.sh
 git commit -m "submit by hsk"
 git push -u origin master
