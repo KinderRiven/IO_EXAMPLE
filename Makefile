@@ -1,2 +1,2 @@
 io1:
-	g++ example_io.cc -o example_io -lpthread
+	g++ example_io.cc -o example_io -lpthread -lnuma
